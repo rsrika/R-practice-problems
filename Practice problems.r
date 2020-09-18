@@ -3,11 +3,11 @@ myString <- "Hello world"
 print(myString)
 
 # Writing a program to take input from the user (name and age) and display the values
-#name = readline(prompt="What is your name?\n")
-#age = readline(prompt = "How old are you?\n")
+name = readline(prompt="What is your name?\n")
+age = readline(prompt = "How old are you?\n")
 
-#print(name)
-#print(age)
+print(name)
+print(age)
 
 #Writing a program to create a sequence of numbers from 20 to 50, find the mean of the numbers from 20 to 60, and the sum of the numbers from 51 to 91
 #Try not to use for-loops
